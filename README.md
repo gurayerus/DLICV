@@ -6,7 +6,7 @@ DLICV operates directly on the raw T1 scan, and produces a binary ICV mask. The 
 
 DLICV aims to provide a more accurate estimation of the actual ICV, mainly by delineating the external boundary of cortical cerebro-spinal-fluid (CSF), rather than focusing on segmenting a "tight brain mask" as done by many other methods. This is specifically critical for cases with a lot of cortical atrophy (i.e. a tight brain mask would underestimate the actual ICV, while DLICV would be minimally affected from cortical atrophy)
 
-DLICV uses the DeepMRSeg package for segmentation [DeepMRSeg](https://github.com/CBICA/DeepMRSeg), a generic convolutional Deep Learning model designed to perform a set of image segmentation tasks on MRI scans.
+DLICV uses the [DeepMRSeg](https://github.com/CBICA/DeepMRSeg) package for segmentation, a generic convolutional Deep Learning model designed to perform a set of image segmentation tasks on MRI scans.
 
 ## Prerequisities
 -   [Python 3](https://www.python.org/downloads/)
