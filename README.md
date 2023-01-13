@@ -86,16 +86,6 @@ Please call the commands with the -h option to display usage information
 
 _[1] Doshi, Jimit, et al. DeepMRSeg: A convolutional deep neural network for anatomy and abnormality segmentation on MR images. arXiv preprint arXiv:1907.02110 (2019)_.
 
-## Authors and Contributors
-
-The DLICV package is currently developed and maintained by:
-
-Others who contributed to the project are:
-
-## Grant support
-
-Development of the DLICV package is supported by the following grants:
-
 ## Disclaimer
 -   The software has been designed for research purposes only and has neither been reviewed nor approved for clinical use by the Food and Drug Administration (FDA) or by any other federal/state agency.
 -   This code (excluding dependent libraries) is governed by the license provided in https://www.med.upenn.edu/cbica/software-agreement-non-commercial.html unless otherwise specified.
